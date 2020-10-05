@@ -1,0 +1,1 @@
+This area could be used to load scenario based prefabs in order to show to the player!
